@@ -1,0 +1,82 @@
+Bull Call Spread
+-----------------
+
+If the view for the market is Bullish
+
+If NIFTY is at 18000
+We buy a CE at ATM(At the money) and sell CE at OTM(Out the money)
+
+1 lot buy 18000CE
+1 lot sell 18200CE
+
+Max profit : 2800
+Max loss : 2200
+
+
+
+Bull Put Spread
+----------------
+
+If you feel market might be slightly up, slightly down or not much movement.
+Then this strategy will work
+
+1 lot sell 18000PE
+1 lot buy 17800PE
+
+
+Call Ratio Back Spread
+-----------------------
+
+If bullish then unlimited profit
+If went again and became bearish then also limited profit
+
+18000 CE SELL 1 lot
+16300 CE BUY 2 lot
+
+Probability of winning is 68%
+
+
+
+Bear Call Spread
+-----------------
+
+If you market is slightly bearish then this strategy will work.
+
+1 lot 18000 CE sell
+1 lot 18200 CE buy
+
+
+Bear Put Spread
+----------------
+
+If NIFTY is at 17200
+
+But PUT ATM   17200 PE
+Sell PUT OTM  17000 PE
+
+
+
+Put Ratio Back Spread
+-----------------------
+
+If you feel market will fall heavily then this strategy is good
+
+17200 PE SELL 1 LOT
+17000 PE BUY  2 LOT
+
+You'll make profit if market goes above and below by large margin.
+Probability of making profit is 94%
+
+
+
+
+Long Straddle
+--------------
+
+Useful when we have no view about the market
+Here, we'll buy the CALL and PUT at ATM
+
+
+
+
+
